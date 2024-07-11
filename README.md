@@ -46,3 +46,9 @@ Carreiras em tecnologia oferecem uma vasta gama de oportunidades para profission
 É um campo crucial que aborda as implicações morais e sociais do desenvolvimento e uso de tecnologias. À medida que a tecnologia avança rapidamente, questões éticas surgem em áreas como privacidade de dados, inteligência artificial, automação e impacto ambiental. Profissionais de tecnologia devem considerar os efeitos de suas criações na sociedade, garantindo que suas práticas e produtos promovam o bem-estar humano e evitem danos. A ética em tecnologia também envolve a transparência, a responsabilidade e a promoção da equidade e da inclusão, assegurando que os benefícios tecnológicos sejam amplamente distribuídos e que todos os indivíduos sejam tratados com justiça e respeito.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+- Aprofundei meus conhecimentos em variáveis.
+- Aprendi typescript e todo o setup do TS.
+- Aprendi arrays e loops e suas utilizações básicas no código.
+- Aprendi a pesquisar e procurar soluções nos problemas enfrentados ao longo do desenvolvimento do código.
+- Aprendi a utilização de objetos em um código de programação.
+
