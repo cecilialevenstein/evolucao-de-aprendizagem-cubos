@@ -16,10 +16,7 @@ programação utilizando JavaScript e TypeScript.\
 - Condicionais e Truthiness
 - Arrays e Loops
 - Objetos
-### Carreira: 
-Ao final deste módulo, o estudante terá uma visão
-introdutória da carreira na área de tecnologia e as competências
-comportamentais requisitadas pelo mercado.
+
 #### Conteúdos:
 - Introdução a Soft Skills
 - Carreiras em tecnologia
@@ -52,3 +49,22 @@ Carreiras em tecnologia oferecem uma vasta gama de oportunidades para profission
 - Aprendi a pesquisar e procurar soluções nos problemas enfrentados ao longo do desenvolvimento do código.
 - Aprendi a utilização de objetos em um código de programação.
 
+## Conteúdos a serem abordados no módulo 2:
+
+- Funções
+- Tipos de dados
+- Tipos Utilitários
+- Métodos de Arrays
+- Gestão de tempo
+- Postura Profissional
+- LinkedIn: primeiros passos
+
+## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+- Funções
+Funções são blocos de código que podem ser chamados e executados de qualquer lugar do programa. Elas são usadas para realizar tarefas específicas, tornando o código mais modular, reutilizável e organizado. 
+- Tipos de dados
+Tipos de dados referem-se às diferentes categorias de valores que uma variável pode assumir em uma linguagem de programação. Eles definem que tipo de dados podem ser armazenados e manipulados no código. \
+- Tipos Utilitários
+Tipos utilitários são tipos pré-definidos fornecidos por linguagens de programação para ajudar a manipular e transformar outros tipos de maneira mais eficiente. \
+- Métodos de Arrays
+Métodos de arrays são funções embutidas que permitem manipular e iterar sobre arrays de maneira eficiente.\
